@@ -21,3 +21,5 @@
 快捷键`-2, 是单步步过 (Step Over). <br />
 (`键是esc下面的那个键, 上面有~和`两种符号. )<br />
 
+For detailed description with image demos, please reffer to: 
+http://ieroot.com/2016/06/27/1860.html
